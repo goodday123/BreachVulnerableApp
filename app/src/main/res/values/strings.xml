@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Breach Vulnerable App</string>
+    <string name="module_title">Xposed Module To log OkHttp Network Calls made by the Wikipedia App</string>
+</resources>
